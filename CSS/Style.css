@@ -86,7 +86,7 @@ h2 {
   align-items: center;
   justify-content: center;
   order: 2;
-  background: #fff;
+  background: #282626;
   width: 70px;
   margin-left: 20px;
   border-radius: 35px;
@@ -96,12 +96,12 @@ h2 {
 
 .menu-icon {
   font-size: 2rem;
-  color: var(--light-grey);
+  color: #22cfe2;
   margin: 15px;
 }
 
 .menu-icon:hover {
-  color: var(--accent-color);
+  color: #00ff9d;
 }
 
 /*=============== PORTFOLIO CONTAINER ===============*/
@@ -419,13 +419,13 @@ textarea:focus {
 .text-input {
   color: #000000;
   height: 2rem;
-  background-color:  #000000;
+  background-color:  #282626;
   border: none;
   border-bottom: solid 2px var(--accent-color);
 }
 
 textarea {
-  background-color: #000000;
+  background-color: #282626;
   height: 4rem;
   border: none;
   border-bottom: solid 2px var(--accent-color);
@@ -433,7 +433,7 @@ textarea {
 
 .submit-btn {
   color: var(--accent-color);
-  background-color: #000000;
+  background-color: #282626;
   padding: 10px 20px;
   margin: 50px 0;
   border-radius: 30px;
